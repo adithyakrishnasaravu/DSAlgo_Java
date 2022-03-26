@@ -1,0 +1,11 @@
+%d  Decimal number (base 10)
+%s  String
+%x  Hexadecimal number (base 16)
+%i  Integer (base 10)
+%e  Exponential floating-point number
+%c  Character
+%f  Floating-point number
+%o Octal number (base 8)
+%u  Unsigned decimal (integer) number
+%t  Date/time
+%n  Newline (for printing new line, printf does not write a newline by default)
